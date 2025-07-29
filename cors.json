@@ -1,8 +1,7 @@
 [
   {
-    "origin": ["http://localhost:5174"],
-    "method": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    "maxAgeSeconds": 3600,
-    "responseHeader": ["Content-Type", "x-goog-meta-custom", "Access-Control-Allow-Origin"]
+    "origin": ["https://osoverseassuppliers.netlify.app"],
+    "method": ["GET", "POST", "PUT", "DELETE"],
+    "maxAgeSeconds": 3600
   }
 ]
